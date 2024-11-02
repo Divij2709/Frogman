@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: c76d2b3706e7cea42b017943a3138064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 631483432003739656
+    second: New_Game_Title_0
+  - first:
+      213: -7727110517641288071
+    second: New_Game_Title_1
+  - first:
+      213: -7241881333785858450
+    second: New_Game_Title_2
+  - first:
+      213: 480226534934534168
+    second: New_Game_Title_3
+  - first:
+      213: -3770590540048259602
+    second: New_Game_Title_4
+  - first:
+      213: -4052681758616582077
+    second: New_Game_Title_5
+  - first:
+      213: 888451263231767944
+    second: New_Game_Title_6
+  - first:
+      213: -6046624700500528297
+    second: New_Game_Title_7
+  - first:
+      213: 4125150646929631115
+    second: New_Game_Title_8
+  - first:
+      213: -4963013237952600273
+    second: New_Game_Title_9
+  - first:
+      213: -1688648496244618410
+    second: New_Game_Title_10
+  - first:
+      213: -2326655248814999963
+    second: New_Game_Title_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_Game_Title_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a02ee5da73c800800000000000000
+      internalID: 631483432003739656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_1
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9766ec79ce9c3c490800000000000000
+      internalID: -7727110517641288071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_2
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e692acb4baf7b90800000000000000
+      internalID: -7241881333785858450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_3
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8185d7a3d7b1aa600800000000000000
+      internalID: 480226534934534168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_4
+      rect:
+        serializedVersion: 2
+        x: 5344
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a9fa91eb2cabc0800000000000000
+      internalID: -3770590540048259602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_5
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34804fd996bf1c7c0800000000000000
+      internalID: -4052681758616582077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_6
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853d2977b9645c00800000000000000
+      internalID: 888451263231767944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_7
+      rect:
+        serializedVersion: 2
+        x: 9352
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753309c0fd2161ca0800000000000000
+      internalID: -6046624700500528297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_8
+      rect:
+        serializedVersion: 2
+        x: 10688
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a63b48aa7f3930800000000000000
+      internalID: 4125150646929631115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_9
+      rect:
+        serializedVersion: 2
+        x: 12024
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27264851c5df1bb0800000000000000
+      internalID: -4963013237952600273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_10
+      rect:
+        serializedVersion: 2
+        x: 13360
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b87d6b327b098e0800000000000000
+      internalID: -1688648496244618410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Game_Title_11
+      rect:
+        serializedVersion: 2
+        x: 14696
+        y: 0
+        width: 1336
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566759bd06f06bfd0800000000000000
+      internalID: -2326655248814999963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 71bc8eff9182b83488eaa7281f966dc6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      New_Game_Title_0: 631483432003739656
+      New_Game_Title_1: -7727110517641288071
+      New_Game_Title_10: -1688648496244618410
+      New_Game_Title_11: -2326655248814999963
+      New_Game_Title_2: -7241881333785858450
+      New_Game_Title_3: 480226534934534168
+      New_Game_Title_4: -3770590540048259602
+      New_Game_Title_5: -4052681758616582077
+      New_Game_Title_6: 888451263231767944
+      New_Game_Title_7: -6046624700500528297
+      New_Game_Title_8: 4125150646929631115
+      New_Game_Title_9: -4963013237952600273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
