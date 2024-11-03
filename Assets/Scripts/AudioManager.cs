@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
 {
@@ -8,20 +9,35 @@ public class AudioManager : MonoBehaviour
     public AudioClip introMusic;
     public AudioClip normalMusic;
     
-    // Start is called before the first frame update
+ 
     void Start()
     {
-        source.PlayOneShot(introMusic);
-        
+        PlayMusicBasedOnScene();
+
     }
 
-    // Update is called once per frame
-    void Update()
+    private void PlayMusicBasedOnScene()
     {
-        if (!source.isPlaying)
+        Scene currentScene = SceneManager.GetActiveScene();
+
+        if (currentScene.buildIndex == 0)
         {
-            source.PlayOneShot(normalMusic);
+            if (!source.isPlaying || source.clip != introMusic)
+            {
+                source.clip = introMusic;
+                source.Play();
+            }
         }
-        
+        else if (currentScene.buildIndex == 1)
+        {
+            if (!source.isPlaying || source.clip != normalMusic)
+            {
+                source.clip = normalMusic;
+                source.Play();
+            }
+        }
     }
+
+   
+   
 }

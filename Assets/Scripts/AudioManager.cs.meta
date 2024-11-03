@@ -6,7 +6,7 @@ MonoImporter:
   defaultReferences:
   - source: {instanceID: 0}
   - introMusic: {fileID: 8300000, guid: f26925c49eb13444291cad953345caad, type: 3}
-  - normalMusic: {instanceID: 0}
+  - normalMusic: {fileID: 8300000, guid: d26bfe5f4966eb943ae1aaa845f3cb54, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
